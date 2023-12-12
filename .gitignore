@@ -1,0 +1,18 @@
+# Virtual environment
+/venv
+
+# Local development files
+*.h5
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Datset files
+*.csv
